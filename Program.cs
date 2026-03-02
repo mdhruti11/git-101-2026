@@ -4,7 +4,18 @@
     "Angus Wong",
     "Ryan Chang",
     "Ethan Burnet",
-    "Dhruti Maniar"
+    "Dhruti Maniar",
+    "Aidan Inglis",
+    "Christopher Rudel",
+    "Nikita Bukhtoiarov",
+    "Spongebob Squarepants",
+    "Inano",
+    "Kevin",
+    "Aidan Smith",
+  	"Hamid",
+    "Alan",
+    "Manny",
+    "Jeffrey Chan",
     // Add your name above this line! (Do not delete this)
 ];
 
